@@ -1,0 +1,37 @@
+﻿.bg-full {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #0d75b5;
+    background-position: center center;
+}
+
+.hero-home {
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('../../assets/images/homepageonthegrass.jpg');
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-white {
+    color:white;
+}
+
+.text-stroke {
+    text-shadow: 2px 2px 1px rgba(70, 70, 70, 0.55);
+}
+
+.center-wrapper {
+    padding-top: 10px;
+    text-align:center;
+}
+
+.top-buffer {
+    margin-top: 20px;
+}
+
+.imgLogo {
+    width:60px;
+    height: 60px;
+}
